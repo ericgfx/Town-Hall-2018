@@ -1,0 +1,187 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Bd
+FamilyName:Helvetica Neue LT Pro
+StyleName:75 Bold
+FullName:Helvetica Neue LT Pro 75 Bold
+MenuName:HelveticaNeueLT Pro 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTPro-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:35688
+FileModTime:1390530673
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 75 Bd
+NameArray:0,Mac,4,Helvetica Neue LT Pro 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Pro 55 Roman
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Lt
+FamilyName:Helvetica Neue LT Pro
+StyleName:45 Light
+FullName:Helvetica Neue LT Pro 45 Light
+MenuName:HelveticaNeueLT Pro 45 Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTPro-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:43800
+FileModTime:1390530673
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Mac,4,Helvetica Neue LT Pro 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-LtEx
+FamilyName:Helvetica Neue LT Pro
+StyleName:43 Light Extended
+FullName:Helvetica Neue LT Pro 43 Light Extended
+MenuName:HelveticaNeueLT Pro 43 LtEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTPro-LtEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:42888
+FileModTime:1390530673
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 43 LtEx
+NameArray:0,Mac,4,Helvetica Neue LT Pro 43 Light Extended
+NameArray:0,Win,1,HelveticaNeueLT Pro 43 LtEx
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-ThEx
+FamilyName:Helvetica Neue LT Pro
+StyleName:33 Thin Extended
+FullName:Helvetica Neue LT Pro 33 Thin Extended
+MenuName:HelveticaNeueLT Pro 33 ThEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTPro-ThEx.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:42908
+FileModTime:1390530673
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Pro 33 ThEx
+NameArray:0,Mac,4,Helvetica Neue LT Pro 33 Thin Extended
+NameArray:0,Win,1,HelveticaNeueLT Pro 33 ThEx
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+FullName:Helvetica Neue LT Std 75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTStd-Bd_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28240
+FileModTime:1390530674
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+FullName:Helvetica Neue LT Std 45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTStd-Lt_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28980
+FileModTime:1395762691
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTStd-55-roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:29044
+FileModTime:1390530674
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
