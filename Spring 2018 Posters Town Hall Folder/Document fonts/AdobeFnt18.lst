@@ -17,7 +17,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:35688
-FileModTime:1390530673
+FileModTime:1517334851
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -43,7 +43,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:43800
-FileModTime:1390530673
+FileModTime:1517334852
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -69,7 +69,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:42888
-FileModTime:1390530673
+FileModTime:1517334852
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -95,7 +95,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:42908
-FileModTime:1390530673
+FileModTime:1517334852
 WeightClass:250
 WidthClass:5
 AngleClass:0
@@ -103,6 +103,33 @@ NameArray:0,Mac,18,HelveticaNeueLT Pro 33 ThEx
 NameArray:0,Mac,4,Helvetica Neue LT Pro 33 Thin Extended
 NameArray:0,Win,1,HelveticaNeueLT Pro 33 ThEx
 NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTStd-55-roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:29044
+FileModTime:1517334852
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
 %EndFont
 
 %BeginFont
@@ -121,7 +148,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:28240
-FileModTime:1390530674
+FileModTime:1517334852
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -147,7 +174,7 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 FileLength:28980
-FileModTime:1395762691
+FileModTime:1517334852
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -155,33 +182,6 @@ DesignSize:120
 NameArray:0,Mac,18,HelveticaNeueLT Std Lt
 NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
 NameArray:0,Win,1,HelveticaNeueLT Std Lt
-NameArray:0,Win,16,Helvetica Neue LT Std
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Type1
-FontName:HelveticaNeueLTStd-Roman
-FamilyName:Helvetica Neue LT Std
-StyleName:55 Roman
-FullName:Helvetica Neue LT Std 55 Roman
-MenuName:HelveticaNeueLT Std
-StyleBits:0
-WritingScript:Roman
-OutlineFileName:Y:\MARKETING\EricG\cpmc2020\Town Hall 2018\Spring 2018 Posters Town Hall Folder\Document fonts\HelveticaNeueLTStd-55-roman.otf
-DataFormat:sfntData
-UsesStandardEncoding:yes
-isCFF:yes
-hasSVG:no
-FileLength:29044
-FileModTime:1390530674
-WeightClass:400
-WidthClass:5
-AngleClass:0
-DesignSize:120
-NameArray:0,Mac,18,HelveticaNeueLT Std
-NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
-NameArray:0,Win,1,HelveticaNeueLT Std
 NameArray:0,Win,16,Helvetica Neue LT Std
 %EndFont
 
